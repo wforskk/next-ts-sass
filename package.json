@@ -1,0 +1,19 @@
+{
+  "name": "next-ts-sass",
+  "version": "1.0.0",
+  "description": "template",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wforskk/next-ts-sass.git"
+  },
+  "author": "k.k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wforskk/next-ts-sass/issues"
+  },
+  "homepage": "https://github.com/wforskk/next-ts-sass#readme"
+}
